@@ -1,6 +1,6 @@
 # 📝 41. First Missing Positive (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/first-missing-positive)
+🔗 [Problem Link](https://leetcode.com/problems/first-missing-positive/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
