@@ -1,6 +1,6 @@
 # 📝 46. Permutations (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/permutations)
+🔗 [Problem Link](https://leetcode.com/problems/permutations/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Backtracking
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 19.5 MB
 
 ---
 
