@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 4 / 150 (2.7%)
+- **Completed:** 5 / 150 (3.3%)
 
 ---
 
@@ -12,7 +12,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 ### 📂 Arrays & Hashing
 - [ ] Contains Duplicate
 - [ ] Valid Anagram
-- [ ] Two Sum
+- [x] [Two Sum](./Python/Easy/1. Two Sum/)
 - [x] [Group Anagrams](./Python/Medium/49. Group Anagrams/)
 - [ ] Top K Frequent Elements
 - [ ] Product of Array Except Self
