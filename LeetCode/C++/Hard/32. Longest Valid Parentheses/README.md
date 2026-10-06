@@ -8,8 +8,8 @@
 String, Dynamic Programming, Stack, Bracket Sequences
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 3 ms
+- **Memory:** 11.6 MB
 
 ---
 
