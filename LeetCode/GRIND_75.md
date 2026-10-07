@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 8 / 75 (10.7%)
+- **Completed:** 9 / 75 (12.0%)
 
 ---
 
@@ -52,7 +52,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Number of Connected Components in an Undirected Graph
 
 ### 📂 Interval
-- [ ] Insert Interval
+- [x] [Insert Interval](./Python/Medium/57. Insert Interval/)
 - [x] [Merge Intervals](./Python/Medium/56. Merge Intervals/)
 - [ ] Non-overlapping Intervals
 - [ ] Meeting Rooms
