@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 10 / 150 (6.7%)
+- **Completed:** 11 / 150 (7.3%)
 
 ---
 
@@ -162,7 +162,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 
 ### 📂 Intervals
 - [ ] Insert Interval
-- [ ] Merge Intervals
+- [x] [Merge Intervals](./Python/Medium/56. Merge Intervals/)
 - [ ] Non-overlapping Intervals
 - [ ] Meeting Rooms
 - [ ] Meeting Rooms II
