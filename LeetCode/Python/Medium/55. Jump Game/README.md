@@ -1,6 +1,6 @@
 # 📝 55. Jump Game (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/jump-game)
+🔗 [Problem Link](https://leetcode.com/problems/jump-game/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Dynamic Programming, Greedy
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 19 ms
+- **Memory:** 20.4 MB
 
 ---
 
