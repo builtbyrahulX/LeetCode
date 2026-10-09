@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 7 / 65 (10.8%)
+- **Completed:** 8 / 65 (12.3%)
 
 ---
 
@@ -20,7 +20,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 
 ### 📂 Module  1.2: Insertion, Deletion & Posit
 - [ ] Remove Nth Node From End of List
-- [ ] Rotate List
+- [x] [Rotate List](./Kotlin/Medium/61. Rotate List/)
 - [ ] Reverse Linked List II
 - [ ] Odd Even Linked List
 - [ ] Merge In Between Linked Lists
