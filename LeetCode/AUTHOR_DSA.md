@@ -139,7 +139,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 ### 📂 MODULE  3.10: DPSTYLE PROBLEMS GIVES TLE
 - [ ] House Robber
 - [x] [Jump Game](./Python/Medium/55. Jump Game/)
-- [x] [Stone Game](./Kotlin/Medium/877. Stone Game/)
+- [x] [Stone Game](./Kotlin/Medium/909. Stone Game/)
 - [ ] Matchsticks to Square
 - [ ] Bulb Switcher
 
