@@ -1,6 +1,6 @@
 # 📝 486. Predict the Winner (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/predict-the-winner)
+🔗 [Problem Link](https://leetcode.com/problems/predict-the-winner/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Kotlin-blue)
 
