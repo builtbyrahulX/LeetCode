@@ -8,8 +8,8 @@
 Array, Math, Dynamic Programming, Minimax, Prefix Sum, Game Theory, Zero-Sum Game
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 120 ms
+- **Memory:** 42.5 MB
 
 ---
 
