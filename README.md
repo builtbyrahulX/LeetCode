@@ -4,12 +4,13 @@ Personal repository containing curated LeetCode solutions, structured by program
 
 ## 📊 Progress Overview
 
-**Total Unique Problems:** `127`
+**Total Unique Problems:** `129`
 
 | Language | Easy | Medium | Hard | Total |
 | :--- | :---: | :---: | :---: | :---: |
 | [Python](./Python) | 27 | 39 | 11 | **77** |
 | [Kotlin](./Kotlin) | 9 | 24 | 9 | **42** |
+| [Rust](./Rust) | 0 | 2 | 0 | **2** |
 | [Java](./Java) | 0 | 4 | 0 | **4** |
 | [C++](./C++) | 0 | 1 | 2 | **3** |
 | [JavaScript](./JavaScript) | 1 | 2 | 1 | **4** |
@@ -36,8 +37,13 @@ LeetCode/
 │   ├── Easy/
 │   ├── Medium/
 │   └── Hard/
+├── Rust/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
 ├── Java/
 ├── C++/
+├── JavaScript/
 ├── Patterns/
 ├── NEETCODE_150.md
 ├── GRIND_75.md
